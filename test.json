@@ -1,0 +1,7 @@
+[{
+"field_name": "account_type",
+"identifier": "account_type",
+"value_type": "string",
+"operators": "=, !=, in, not in",
+"eg_values": "Standard, Admin, Service, Domain, Database",
+}]
